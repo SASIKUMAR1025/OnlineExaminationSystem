@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<style>
+body 
+{font-family: "Times New Roman", Times, serif;
+    background-color:snow;
+}
+* {box-sizing: border-box}
+h1{
+    text-align:center;
+}
+input[type=text], input[type=ID],input[type=email],input[type=date]
+{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: dashed;
+  background:#87CEFA;
+  opacity:1;
+}
+
+input[type=text]:focus, input[type=ID]:focus {
+  background-color:white;
+  outline: none;
+}
+button {
+  background-color: #04AA6D;
+  color: snow;
+  padding: 14px 20px;
+  text-align:center;
+  margin:6px 0;
+  cursor:pointer;
+  width: 100%;
+  opacity: 1;
+}
+button:hover {
+  opacity:1;
+}
+.nextbtn {
+  float: left;
+  width: 50%;
+}
+.container {
+  padding: 16px;
+}
+</style>
+<body>
+<form action="/action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+    <h1 title="ValueLabs">ONLINE PROCTORED EXAM</h1>
+    <hr>
+ <fieldset>
+  <legend>ENTER DETAILS:</legend>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email"><br><br>
+  <label for="birthday">DOB:</label>
+  <input type="date" id="birthday" name="birthday"><br><br>
+  <label for="phone no">Mobile number:</label>
+  <input type="text" id="Mobile no" name="Mobile no"><br><br>
+  <label for="Clg name">University name:</label>
+  <input type="text" id="clg name" name="clg name"><br><br>
+  <label for="brach">Branch&Stream:</label>
+  <input type="text" id="branch" name="branch"><br><br>
+  <label for="CGPA">CGPA(till now):</label>
+  <input type="text" id="CGPA" name="CGPA"><br><br>
+ </fieldset>
+</form>
+<div class="clearfix">
+      <button type="submit" class="signupbtn">NEXT</button></button>
+    </div>
+  </div>
+</form>
+
+</body>
+</html>
