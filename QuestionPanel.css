@@ -1,0 +1,26 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    background-color: rgb(157, 228, 250);
+  }
+Button:hover{
+    background-color: rgb(157, 228, 250) !important;
+}
+.message{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px !important;
+}
+.next-button{
+    display: flex !important;
+    margin: 0 auto !important;
+    margin-top: 20px !important;
+}
+
+.next-button:hover{
+    background: black !important;
+}
+.score-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
