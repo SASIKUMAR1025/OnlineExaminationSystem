@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who%20developed%20Python%20Programming%20Language?",
+    "correct_answer": "Guido%20van%20Rossum",
+    "incorrect_answers": [
+      "Wick%20van%20Rossum",
+      "Rasmus%20Lerdorf",
+      "Niene%20Stom"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which%20type%20of%20Programming%20does%20Python%20support?",
+    "correct_answer": "all%20of%20the%20mentioned",
+    "incorrect_answers": [
+      "object-oriented%20programming",
+      "structured%20programming",
+      "functional%20programming"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which%20of%20the%20following%20is%20the%20correct%20extension%20of%20the%20Python%20file?",
+    "correct_answer": ".py",
+    "incorrect_answers": [
+      ".python",
+      ".pl",
+      ".p"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How%20is%20a%20code%20block%20indicated%20in%20Python?",
+    "correct_answer": "Indentation",
+    "incorrect_answers": [
+      "Brackets",
+      "Key",
+      "None%20of%20the%20above"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "All%20keywords%20in%20Python%20are%20in",
+    "correct_answer": "None%20of%20the%20mentioned",
+    "incorrect_answers": [
+      "Capitalized",
+      "lower%20case",
+      "UPPER%20CASE"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which%20keyword%20is%20used%20for%20function%20in%20Python%20language?",
+    "correct_answer": "Def",
+    "incorrect_answers": [
+      "Function",
+      "Fun",
+      "Define"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which%20of%20the%20following%20character%20is%20used%20to%20give%20single-line%20comments%20in%20Python?",
+    "correct_answer": "#",
+    "incorrect_answers": [
+      "//",
+      "!",
+      " /*"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Python%20supports%20the%20creation%20of%20anonymous%20functions%20at%20runtime,%20using%20a%20construct%20called",
+    "correct_answer": "lambda",
+    "incorrect_answers": [
+      "pi",
+      "anonymous",
+      "none%20of%20the%20mentioned"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which%20of%20thefollowing%20is%20not%20a%20core%20data%20type%20in%20Python%20programming?",
+    "correct_answer": "Class",
+    "incorrect_answers": [
+      "Tuples",
+      "Lists",
+      "Dictionary"
+    ]
+  },
+  {
+    "category": "Python",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which%20one%20of%20the%20following%20is%20not%20a%20keyword%20in%20Python%20language?",
+    "correct_answer": "eval",
+    "incorrect_answers": [
+      "pass",
+      "assert",
+      "nonlocal"
+    ]
+  }
+]
